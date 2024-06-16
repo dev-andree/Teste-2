@@ -14,28 +14,28 @@ header {
 }
 
 #casa {
-    width: 3vw;
+    width: 4vw;
     position: relative;
-    left: 600px;
-    bottom: 20pt;
-}
-
-#informacao {
-    width: 3vw;
-    position: relative;
-    left: 700px;
-    bottom: 20pt;
+    left: 500px;
+    bottom: 40pt;
 }
 
 #ideia {
-    width: 3.5vw;
+    width: 4.5vw;
     position: relative;
-    left: 640px;
-    bottom: 20pt;   
+    left: 550px;
+    bottom: 40pt;   
+}
+
+#informacao {
+    width: 4vw;
+    position: relative;
+    left: 600px;
+    bottom: 40pt;
 }
 
 #logo {
-    width: 10vw;
+    width: 20vw;
 }
 
 #title {
